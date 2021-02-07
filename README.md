@@ -8,3 +8,5 @@ npm을 통해서 관리합니다.
 node_modules은 npm을 통해서 설치됐습니다.
 
 pakage.json만 있으면, node_modules나 package-lock.js는 나중에 터미널에서 "npm install"로 다시 받을 수 있습니다.
+
+터미널로 한번 커밋해보겠습니다.
